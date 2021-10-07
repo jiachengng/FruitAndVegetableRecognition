@@ -3,11 +3,16 @@ Computer Vision using Azure Cognitive Services (Custom Vision)
 
 This site is used to train, build and deploy the custom model [Azure Services (Custom Vision)](https://www.customvision.ai/).
 
+![Model example 1](https://ibb.co/kx6WHj6)
+![Model example 2](https://ibb.co/qnnJS6n)
+
 ## RUN
 Open FruitVegetableML.sln using Visual Studio, F5 to build and run
 
 
 ## SCENARIO
+![Flow](https://ibb.co/NSGTzh9)
+
 - Camera will only start and detect object when an item is placed on the weighing scale.
 - WeighingScaleStatus is to mimic the status of the scale. (0 no item is placed, 1 item is placed)
 
