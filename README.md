@@ -1,4 +1,4 @@
-# FruitAndVegetableRecognition
+# Fruit And VegetableRecognition
 Computer Vision using Azure Cognitive Services (Custom Vision)
 
 This site is used to train, build and deploy the custom model [Azure Services (Custom Vision)](https://www.customvision.ai/).
