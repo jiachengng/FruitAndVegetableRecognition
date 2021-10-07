@@ -3,8 +3,8 @@ Computer Vision using Azure Cognitive Services (Custom Vision)
 
 This site is used to train, build and deploy the custom model [Azure Services (Custom Vision)](https://www.customvision.ai/).
 
-![Model example 1](https://ibb.co/kx6WHj6)
-![Model example 2](https://ibb.co/qnnJS6n)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/BtKSzbK/Picture1.png" alt="Picture1" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/yRR492R/Picture2.png" alt="Picture2" border="0"></a>
 
 ## RUN
 Open FruitVegetableML.sln using Visual Studio, F5 to build and run
