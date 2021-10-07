@@ -11,7 +11,7 @@ Open FruitVegetableML.sln using Visual Studio, F5 to build and run
 
 
 ## SCENARIO
-![Flow](<a href="https://ibb.co/NSGTzh9"><img src="https://i.ibb.co/gVc4C1S/Picture3.png" alt="Picture3" border="0"></a>)
+<a href="https://ibb.co/NSGTzh9"><img src="https://i.ibb.co/gVc4C1S/Picture3.png" alt="Picture3" border="0"></a>
 
 - Camera will only start and detect object when an item is placed on the weighing scale.
 - WeighingScaleStatus is to mimic the status of the scale. (0 no item is placed, 1 item is placed)
