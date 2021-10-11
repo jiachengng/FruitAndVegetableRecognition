@@ -65,7 +65,7 @@ namespace FruitVegetableML
             client.DefaultRequestHeaders.Add("Prediction-Key", "6e8dc9f09f5d4ffd9dafb9aaa33a8da2");
 
             // Prediction URL - replace this example URL with your valid Prediction URL.
-            string url = "https://customvisionjc-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/54e90267-0a30-4895-aabf-9e2b4cef2e9d/classify/iterations/Iteration3/image";
+            string url = "https://customvisionjc-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/4096a74a-379c-4565-8233-2231a9898555/classify/iterations/Iteration4/image";
 
             HttpResponseMessage response;
 
